@@ -1,0 +1,17 @@
+
+Intégrer les polices suivantes dans le code HTML :
+
+<link href='https://fonts.googleapis.com/css?family=Pinyon+Script|Lora' rel='stylesheet' type='text/css'>
+
+
+
+
+Se servir de ces fonts dans les CSS :
+
+font-family: 'Lora', serif;
+font-family: 'Pinyon Script', cursive;
+
+
+
+
+Pour en disposer sous Photoshop : installer les deux fonts qui se trouvent dans le dossier fonts.

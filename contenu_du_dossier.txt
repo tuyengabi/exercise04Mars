@@ -1,0 +1,11 @@
+Contenu du dossier:
+
+•	« fonts  ;
+•	« images  ; 
+•	« menu  ;
+•	« picto  ;
+
+et les fichiers :
+•	« accueil_motos.psd » ;
+•	« index.html ».
+

@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(../images/header.jpg);
+    background-size: cover;
+    background-position: 60% 50%;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 3.4rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 3px 3px 1px black;
+}
+
+h1 {
+    padding: 140px 40px;
+    -webkit-text-stroke: 1.6px rgb(0, 0, 0);
+}
+
+.secondary-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin: 50px 7vw 10px 7vw;
+    color: #4b4b4b;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1.2rem;
+    font-family: 'Lora', serif;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 1.2rem;
+    font-family: 'Lora', serif;
+}
+
+.products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    width: 20vw;
+}
+
+.product-info {
+    font-family: 'lora';
+    font-size: 1.1rem;
+    margin: 50px 0;
+    text-align: justify;
+}
+
+.reseau-social {
+    width: 94%;
+    text-align: right;
+}
+
+.reseau-icon {
+    width: 60px;
+}
+
+footer {
+    border-top: 8px solid #372b40;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 1rem;
+    padding: 10px 0;
+}
